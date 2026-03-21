@@ -1,31 +1,38 @@
-## 👋 Hi, I’m Rawfile (Kingsley)
+# 👋 Hi, I’m Kingsley (Rawfile)
 
-I’m a Web Developer focused on building modern, responsive web and mobile applications.
+I’m a full-stack web developer focused on building modern, scalable web applications with clean UI and solid backend systems.
 
-### 👀 What I’m interested in
-- Frontend development (React, Next.js, TypeScript)
-- Mobile development with React Native
-- Growing into a well-rounded full-stack developer
-- Building real-world products and scalable UI systems
+---
 
-### 🌱 What I’m currently working with
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS 
-- TypeScript (learning)
-- Next.js (learning) 
-- Node.js (basics) 
-- Git & GitHub (basics)
+## 🚀 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,vscode)
 
-### 💞️ Collaboration
-I’m open to collaborating with developers, designers, and teams who are passionate about learning, building, and shipping meaningful products.
+---
 
-### 📫 How to reach me
-- Email: rawfile.webdev@gmail.com
-- LinkedIn: https://linkedin.com/in/kingsleychibuikem
+## 📦 Projects
 
-### 😄 Pronouns
-He/Him
+### 🏫 Campus Hub  
+Full-stack school management system with authentication and role-based access  
+**Tech:** React, Node.js, MongoDB  
 
-### ⚡ Fun fact
-I’m jovial, detail-oriented, and I enjoy turning ideas into clean, functional user interfaces.
+### 🛒 E-commerce Platform  
+Product filtering, cart system, PayPal integration  
+**Tech:** Next.js, Express, Tailwind  
+
+---
+
+## 🔧 What I’m Working On
+- Improving backend architecture with Node.js and Express  
+- Building scalable APIs  
+- Deepening knowledge in PostgreSQL  
+
+---
+
+## 🤝 Collaboration
+Open to working on real-world projects with developers and designers focused on building useful products.
+
+---
+
+## 📫 Contact
+- Email: rawfile.webdev@gmail.com  
+- LinkedIn: https://linkedin.com/in/kingsleychibuikem  
