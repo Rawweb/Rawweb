@@ -6,6 +6,9 @@ I’m a full-stack web developer focused on building modern, scalable web applic
 
 ## 🚀 Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,vscode)
+my username is rawweb
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/rawweb/github-readme-stats)
 
 ---
 
