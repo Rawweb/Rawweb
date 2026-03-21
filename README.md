@@ -20,6 +20,9 @@ Product filtering, cart system, PayPal integration
 **Tech:** Next.js, Express, Tailwind  
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rawweb&show_icons=true&theme=tokyonight)
+
+---
 
 ## 🔧 What I’m Working On
 - Improving backend architecture with Node.js and Express  
