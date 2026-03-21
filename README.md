@@ -5,10 +5,7 @@ I’m a full-stack web developer focused on building modern, scalable web applic
 ---
 
 ## 🚀 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,vscode)
-my username is rawweb
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawweb)](https://github.com/rawweb/github-readme-stats)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,tailwind,git,vscode)
 
 ---
 
@@ -16,14 +13,16 @@ my username is rawweb
 
 ### 🏫 Campus Hub  
 Full-stack school management system with authentication and role-based access  
-**Tech:** React, Node.js, MongoDB  
+**Tech:** React, Tailwind, Node.js, Express, MongoDB 
 
 ### 🛒 E-commerce Platform  
 Product filtering, cart system, PayPal integration  
-**Tech:** Next.js, Express, Tailwind  
+**Tech:** React, Express, Tailwind, Node.js, MongoDB
 
+### 🪙 Crypto Investment Platform  
+Full-stack crypto investment system with user authentication, wallet system, deposits/withdrawals, ROI-based investment plans, transaction logs, admin dashboard, and email notifications  
+**Tech:** React, Tailwind, Node.js, Express, MongoDB
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rawweb&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawweb&layout=compact&theme=tokyonight)
 ---
