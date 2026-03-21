@@ -19,7 +19,7 @@ Full-stack school management system with authentication and role-based access
 Product filtering, cart system, PayPal integration  
 **Tech:** React, Express, Tailwind, Node.js, MongoDB
 
-### Crypto Investment Platform
+### 🪙 Crypto Investment Platform
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawweb&layout=compact&theme=tokyonight)
