@@ -20,8 +20,8 @@ Product filtering, cart system, PayPal integration
 **Tech:** React, Express, Tailwind, Node.js, MongoDB
 
 ### 🪙 Crypto Investment Platform
-Product filtering, cart system, PayPal integration  
-**Tech:** React, Express, Tailwind, Node.js, MongoDB
+Full-stack crypto investment system with user authentication, wallet system, deposits/withdrawals, ROI-based investment plans, transaction logs, admin dashboard, and email notifications  
+**Tech:** React, Tailwind, Node.js, Express, MongoDB
 
 ---
 
