@@ -22,6 +22,7 @@ Product filtering, cart system, PayPal integration
 ### 🪙 Crypto Investment Platform
 Product filtering, cart system, PayPal integration  
 **Tech:** React, Express, Tailwind, Node.js, MongoDB
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawweb&layout=compact&theme=tokyonight)
