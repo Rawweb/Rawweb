@@ -22,6 +22,7 @@ Product filtering, cart system, PayPal integration
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rawweb&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawweb&layout=compact&theme=tokyonight)
 ---
 
 ## 🔧 What I’m Working On
